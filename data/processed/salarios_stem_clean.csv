@@ -1,0 +1,101 @@
+id,salario_anual,moneda,genero,anios_experiencia,cargo,sector,pais,ciudad,tipo_jornada
+1,24000,eur,mujer,0,junior developer,software,españa,madrid,tiempo completo
+2,27000,eur,hombre,0,junior developer,software,españa,madrid,tiempo completo
+3,26000,eur,mujer,1,junior developer,fintech,españa,barcelona,tiempo completo
+4,29000,eur,hombre,1,junior developer,fintech,españa,barcelona,tiempo completo
+5,25000,eur,no binario,1,data analyst,consultoría,españa,madrid,tiempo completo
+6,32000,eur,mujer,2,data analyst,salud tech,españa,valencia,tiempo completo
+7,35000,eur,hombre,2,data analyst,salud tech,españa,valencia,tiempo completo
+8,34000,eur,mujer,3,backend developer,software,españa,sevilla,tiempo completo
+9,38000,eur,hombre,3,backend developer,software,españa,sevilla,tiempo completo
+10,33000,eur,prefiere no decir,2,qa engineer,software,españa,madrid,tiempo completo
+11,36000,eur,mujer,4,qa engineer,videojuegos,españa,barcelona,tiempo completo
+12,40000,eur,hombre,4,qa engineer,videojuegos,españa,barcelona,tiempo completo
+13,37000,eur,mujer,5,data scientist,fintech,españa,madrid,tiempo completo
+14,42000,eur,hombre,5,data scientist,fintech,españa,madrid,tiempo completo
+15,36000,eur,no binario,4,data scientist,salud tech,españa,valencia,tiempo completo
+16,45000,eur,mujer,6,machine learning engineer,software,españa,barcelona,tiempo completo
+17,50000,eur,hombre,6,machine learning engineer,software,españa,barcelona,tiempo completo
+18,44000,eur,mujer,7,frontend developer,ecommerce,españa,madrid,tiempo completo
+19,49000,eur,hombre,7,frontend developer,ecommerce,españa,madrid,tiempo completo
+20,43000,eur,prefiere no decir,6,full stack developer,software,españa,sevilla,tiempo completo
+21,47000,eur,mujer,8,full stack developer,telecom,españa,madrid,tiempo completo
+22,52000,eur,hombre,8,full stack developer,telecom,españa,madrid,tiempo completo
+23,46000,eur,mujer,9,data engineer,fintech,españa,barcelona,tiempo completo
+24,52000,eur,hombre,9,data engineer,fintech,españa,barcelona,tiempo completo
+25,45000,eur,no binario,8,data engineer,salud tech,españa,valencia,tiempo completo
+26,48000,eur,mujer,10,devops engineer,software,españa,madrid,tiempo completo
+27,54000,eur,hombre,10,devops engineer,software,españa,madrid,tiempo completo
+28,47000,eur,mujer,11,security engineer,fintech,españa,barcelona,tiempo completo
+29,54000,eur,hombre,11,security engineer,fintech,españa,barcelona,tiempo completo
+30,46000,eur,prefiere no decir,10,security engineer,telecom,españa,sevilla,tiempo completo
+31,50000,eur,mujer,12,data scientist,salud tech,españa,madrid,tiempo completo
+32,56000,eur,hombre,12,data scientist,salud tech,españa,madrid,tiempo completo
+33,49000,eur,mujer,13,machine learning engineer,ecommerce,españa,barcelona,tiempo completo
+34,56000,eur,hombre,13,machine learning engineer,ecommerce,españa,barcelona,tiempo completo
+35,48000,eur,no binario,12,backend developer,software,españa,valencia,tiempo completo
+36,52000,eur,mujer,14,tech lead,software,españa,madrid,tiempo completo
+37,59000,eur,hombre,14,tech lead,software,españa,madrid,tiempo completo
+38,51000,eur,mujer,15,tech lead,fintech,españa,barcelona,tiempo completo
+39,60000,eur,hombre,15,tech lead,fintech,españa,barcelona,tiempo completo
+40,50000,eur,prefiere no decir,14,tech lead,telecom,españa,sevilla,tiempo completo
+41,53000,eur,mujer,16,engineering manager,software,españa,madrid,tiempo completo
+42,62000,eur,hombre,16,engineering manager,software,españa,madrid,tiempo completo
+43,52000,eur,mujer,17,engineering manager,salud tech,españa,barcelona,tiempo completo
+44,63000,eur,hombre,17,engineering manager,salud tech,españa,barcelona,tiempo completo
+45,51000,eur,no binario,16,engineering manager,telecom,españa,valencia,tiempo completo
+46,55000,eur,mujer,18,data platform engineer,fintech,españa,madrid,tiempo completo
+47,64000,eur,hombre,18,data platform engineer,fintech,españa,madrid,tiempo completo
+48,54000,eur,mujer,19,solution architect,software,españa,barcelona,tiempo completo
+49,66000,eur,hombre,19,solution architect,software,españa,barcelona,tiempo completo
+50,53000,eur,prefiere no decir,18,solution architect,telecom,españa,sevilla,tiempo completo
+51,30000,eur,mujer,2,junior developer,videojuegos,españa,madrid,tiempo completo
+52,33000,eur,hombre,2,junior developer,videojuegos,españa,madrid,tiempo completo
+53,29000,eur,mujer,1,data analyst,ecommerce,españa,barcelona,tiempo completo
+54,32000,eur,hombre,1,data analyst,ecommerce,españa,barcelona,tiempo completo
+55,31000,eur,no binario,2,data analyst,consultoría,españa,valencia,tiempo completo
+56,35000,eur,mujer,3,qa engineer,software,españa,sevilla,tiempo completo
+57,39000,eur,hombre,3,qa engineer,software,españa,sevilla,tiempo completo
+58,34000,eur,mujer,4,backend developer,fintech,españa,madrid,tiempo completo
+59,39000,eur,hombre,4,backend developer,fintech,españa,madrid,tiempo completo
+60,33000,eur,prefiere no decir,3,frontend developer,software,españa,barcelona,tiempo completo
+61,42000,eur,mujer,5,frontend developer,ecommerce,españa,valencia,tiempo completo
+62,47000,eur,hombre,5,frontend developer,ecommerce,españa,valencia,tiempo completo
+63,41000,eur,mujer,6,full stack developer,videojuegos,españa,madrid,tiempo completo
+64,47000,eur,hombre,6,full stack developer,videojuegos,españa,madrid,tiempo completo
+65,40000,eur,no binario,5,full stack developer,software,españa,sevilla,tiempo completo
+66,43000,eur,mujer,7,data engineer,salud tech,españa,barcelona,tiempo completo
+67,49000,eur,hombre,7,data engineer,salud tech,españa,barcelona,tiempo completo
+68,42000,eur,mujer,8,data scientist,ecommerce,españa,valencia,tiempo completo
+69,49000,eur,hombre,8,data scientist,ecommerce,españa,valencia,tiempo completo
+70,41000,eur,prefiere no decir,7,data scientist,consultoría,españa,madrid,tiempo completo
+71,46000,eur,mujer,9,machine learning engineer,software,españa,barcelona,tiempo completo
+72,52000,eur,hombre,9,machine learning engineer,software,españa,barcelona,tiempo completo
+73,45000,eur,mujer,10,devops engineer,videojuegos,españa,valencia,tiempo completo
+74,52000,eur,hombre,10,devops engineer,videojuegos,españa,valencia,tiempo completo
+75,44000,eur,no binario,9,devops engineer,software,españa,madrid,tiempo completo
+76,48000,eur,mujer,11,security engineer,telecom,españa,barcelona,tiempo completo
+77,55000,eur,hombre,11,security engineer,telecom,españa,barcelona,tiempo completo
+78,47000,eur,mujer,12,security engineer,fintech,españa,valencia,tiempo completo
+79,54000,eur,hombre,12,security engineer,fintech,españa,valencia,tiempo completo
+80,46000,eur,prefiere no decir,11,security engineer,software,españa,sevilla,tiempo completo
+81,50000,eur,mujer,13,tech lead,salud tech,españa,madrid,tiempo completo
+82,57000,eur,hombre,13,tech lead,salud tech,españa,madrid,tiempo completo
+83,49000,eur,mujer,14,tech lead,ecommerce,españa,barcelona,tiempo completo
+84,57000,eur,hombre,14,tech lead,ecommerce,españa,barcelona,tiempo completo
+85,48000,eur,no binario,13,tech lead,consultoría,españa,valencia,tiempo completo
+86,52000,eur,mujer,15,engineering manager,telecom,españa,madrid,tiempo completo
+87,60000,eur,hombre,15,engineering manager,telecom,españa,madrid,tiempo completo
+88,51000,eur,mujer,16,engineering manager,videojuegos,españa,barcelona,tiempo completo
+89,60000,eur,hombre,16,engineering manager,videojuegos,españa,barcelona,tiempo completo
+90,50000,eur,prefiere no decir,15,engineering manager,software,españa,sevilla,tiempo completo
+91,54000,eur,mujer,17,solution architect,fintech,españa,madrid,tiempo completo
+92,62000,eur,hombre,17,solution architect,fintech,españa,madrid,tiempo completo
+93,53000,eur,mujer,18,solution architect,salud tech,españa,barcelona,tiempo completo
+94,63000,eur,hombre,18,solution architect,salud tech,españa,barcelona,tiempo completo
+95,52000,eur,no binario,17,solution architect,telecom,españa,valencia,tiempo completo
+96,56000,eur,mujer,19,data platform engineer,software,españa,madrid,tiempo completo
+97,65000,eur,hombre,19,data platform engineer,software,españa,madrid,tiempo completo
+98,55000,eur,mujer,20,data platform engineer,ecommerce,españa,barcelona,tiempo completo
+99,66000,eur,hombre,20,data platform engineer,ecommerce,españa,barcelona,tiempo completo
+100,54000,eur,prefiere no decir,19,data platform engineer,consultoría,españa,sevilla,tiempo completo

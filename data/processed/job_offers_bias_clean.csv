@@ -1,0 +1,91 @@
+id,puesto,sector,descripcion,nivel_sesgo
+1,junior developer,software,"buscamos una persona con ganas de aprender, colaborar con el equipo y desarrollar soluciones de software en un entorno inclusivo.",bajo
+2,backend developer,fintech,"se valora capacidad técnica, comunicación efectiva y trabajo en equipo para construir servicios backend escalables.",bajo
+3,data analyst,consultoría,"la persona candidata analizará datos, preparará informes y colaborará con distintos perfiles del negocio.",bajo
+4,qa engineer,software,"oferta orientada a una persona detallista que quiera participar en pruebas, automatización y mejora continua.",bajo
+5,frontend developer,ecommerce,"buscamos una persona creativa, organizada y con interés por mejorar la experiencia de usuario.",bajo
+6,data scientist,salud tech,"el puesto requiere pensamiento analítico, aprendizaje continuo y colaboración con equipos multidisciplinares.",bajo
+7,machine learning engineer,software,la vacante está abierta a perfiles diversos con experiencia en modelos predictivos y despliegue en producción.,bajo
+8,devops engineer,telecom,"se valorará experiencia en automatización, infraestructura y capacidad para trabajar en un entorno respetuoso.",bajo
+9,security engineer,fintech,"buscamos una persona con criterio técnico, responsabilidad y capacidad para resolver incidentes de seguridad.",bajo
+10,full stack developer,software,el equipo busca una persona proactiva y colaborativa para desarrollar nuevas funcionalidades end to end.,bajo
+11,junior developer,videojuegos,"queremos incorporar talento con motivación, curiosidad y ganas de crecer en desarrollo de aplicaciones.",bajo
+12,backend developer,software,"se ofrece un entorno flexible donde se valora la empatía, la comunicación y la calidad del código.",bajo
+13,data analyst,ecommerce,"la persona seleccionada trabajará con dashboards, métricas de negocio y análisis exploratorio de datos.",bajo
+14,qa engineer,salud tech,"puesto ideal para una persona organizada, con atención al detalle y capacidad de coordinación.",bajo
+15,frontend developer,software,buscamos una persona con sensibilidad por el diseño y experiencia creando interfaces accesibles.,bajo
+16,data scientist,fintech,"se valoran conocimientos en estadística, machine learning y capacidad para explicar resultados de forma clara.",bajo
+17,machine learning engineer,ecommerce,"oferta abierta a perfiles con distintas trayectorias, orientada a construir soluciones de recomendación.",bajo
+18,devops engineer,software,"la empresa promueve equilibrio personal y profesional, además de colaboración y mejora continua.",bajo
+19,security engineer,telecom,"se requiere análisis, criterio y capacidad de documentar procesos de ciberseguridad con claridad.",bajo
+20,full stack developer,consultoría,"la persona candidata participará en proyectos web, apis y coordinación con diseño y producto.",bajo
+21,junior developer,software,buscamos a alguien dinámico y con iniciativa para adaptarse a un entorno exigente y cambiante.,medio
+22,backend developer,fintech,"necesitamos un perfil resolutivo, orientado a resultados y capaz de soportar presión en momentos críticos.",medio
+23,data analyst,consultoría,"se valorará competitividad, rapidez y fuerte orientación al logro para cumplir objetivos ambiciosos.",medio
+24,qa engineer,software,"queremos una persona firme, segura y con capacidad para defender sus decisiones ante el equipo.",medio
+25,frontend developer,ecommerce,"el puesto requiere energía, ambición y mentalidad de alto rendimiento para alcanzar metas del área.",medio
+26,data scientist,salud tech,"buscamos un perfil fuerte en análisis, con gran determinación para liderar retos complejos.",medio
+27,machine learning engineer,software,"necesitamos una persona segura de sí misma, enfocada en objetivos y cómoda compitiendo en alto nivel.",medio
+28,devops engineer,telecom,"se valora fortaleza para trabajar bajo presión, tomar decisiones rápidas y responder con contundencia.",medio
+29,security engineer,fintech,"el perfil ideal es dominante, resolutivo y capaz de imponer criterio técnico cuando sea necesario.",medio
+30,full stack developer,software,"persona orientada a resultados, resiliente y preparada para un entorno técnico muy exigente.",medio
+31,junior developer,videojuegos,"buscamos talento con ambición, carácter competitivo y ganas de destacar en un equipo de alto rendimiento.",medio
+32,backend developer,software,se valorará agresividad comercial interna para impulsar mejoras y defender propuestas técnicas.,medio
+33,data analyst,ecommerce,"necesitamos una persona con mentalidad fuerte, rápida y orientada a superar al resto del equipo.",medio
+34,qa engineer,salud tech,"el puesto requiere firmeza, seguridad y capacidad para actuar sin titubeos en contextos exigentes.",medio
+35,frontend developer,software,"se busca un perfil enérgico, con empuje y fuerte orientación a conseguir resultados medibles.",medio
+36,data scientist,fintech,"persona competitiva, analítica y con alto nivel de tolerancia a la presión y a los plazos ajustados.",medio
+37,machine learning engineer,ecommerce,buscamos un perfil ambicioso y dominante capaz de asumir grandes retos tecnológicos.,medio
+38,devops engineer,software,"se necesita alguien resistente, rápido y preparado para afrontar entornos duros.",medio
+39,security engineer,telecom,queremos una persona firme y muy orientada al control de situaciones críticas.,medio
+40,full stack developer,consultoría,"se valora una actitud fuerte, directa y centrada en resultados en equipos de ritmo alto.",medio
+41,junior developer,software,buscamos un ninja del código con hambre de victoria y mentalidad de guerrero para romper límites.,alto
+42,backend developer,fintech,necesitamos un rockstar técnico que domine el backend y ataque problemas con agresividad.,alto
+43,data analyst,consultoría,"se busca un killer de datos obsesionado con ganar, competir y aplastar objetivos del negocio.",alto
+44,qa engineer,software,"queremos una persona con carácter duro, capaz de sobrevivir en un entorno salvaje y muy competitivo.",alto
+45,frontend developer,ecommerce,"solo perfiles brillantes, agresivos y con ambición desmedida para conquistar el mercado digital.",alto
+46,data scientist,salud tech,buscamos un crack analítico que arrase con los retos y lleve al equipo a otro nivel.,alto
+47,machine learning engineer,software,"necesitamos un experto dominante, extremadamente competitivo y enfocado en destruir barreras técnicas.",alto
+48,devops engineer,telecom,"el puesto es para una persona incansable, agresiva y preparada para pelear cada despliegue.",alto
+49,security engineer,fintech,"se busca un perfil fuerte, brutalmente resolutivo y obsesionado con controlar cualquier amenaza.",alto
+50,full stack developer,software,queremos un auténtico guerrero full stack con nervios de acero y mentalidad imparable.,alto
+51,junior developer,videojuegos,"necesitamos un perfil joven, agresivo y con hambre de comerse la industria del gaming.",alto
+52,backend developer,software,buscamos un programador alfa que imponga nivel técnico y lidere con mano dura.,alto
+53,data analyst,ecommerce,"solo personas con espíritu competitivo, instinto ganador y obsesión por derrotar métricas anteriores.",alto
+54,qa engineer,salud tech,queremos una persona que aguante presión extrema y responda con dureza ante los errores.,alto
+55,frontend developer,software,"necesitamos una estrella del frontend que domine, impacte y arrase en cada entrega.",alto
+56,data scientist,fintech,"perfil ultra ambicioso, agresivo y con capacidad para imponerse en proyectos críticos.",alto
+57,machine learning engineer,ecommerce,"buscamos un talento excepcional, competitivo y preparado para luchar por ser el mejor.",alto
+58,devops engineer,software,"puesto para alguien duro, intenso y capaz de sobrevivir a ritmos de trabajo extremos.",alto
+59,security engineer,telecom,necesitamos un perfil dominante que ataque incidentes con sangre fría y contundencia.,alto
+60,full stack developer,consultoría,buscamos una máquina de programar con mentalidad ganadora y resistencia total.,alto
+61,junior developer,software,"la empresa busca una persona con interés en aprender, compartir ideas y crecer con acompañamiento.",bajo
+62,backend developer,fintech,"se valora capacidad de análisis, colaboración y comunicación para integrarse bien en el equipo.",bajo
+63,data analyst,consultoría,el puesto consiste en interpretar datos y apoyar la toma de decisiones con claridad.,bajo
+64,qa engineer,software,"oferta orientada a una persona metódica, cuidadosa y comprometida con la calidad.",bajo
+65,frontend developer,ecommerce,buscamos una persona con atención al detalle y ganas de mejorar productos digitales.,bajo
+66,data scientist,salud tech,se ofrece entorno flexible y abierto a distintos perfiles con experiencia en analítica avanzada.,bajo
+67,machine learning engineer,software,"la vacante promueve trabajo en equipo, aprendizaje continuo y diversidad de perspectivas.",bajo
+68,devops engineer,telecom,buscamos una persona capaz de automatizar procesos y colaborar con distintos departamentos.,bajo
+69,security engineer,fintech,"la persona candidata trabajará en prevención, monitoreo y respuesta a incidentes.",bajo
+70,full stack developer,software,"puesto enfocado en desarrollo web, apis y colaboración con producto y diseño.",bajo
+71,junior developer,videojuegos,"se valora curiosidad, motivación y capacidad para adaptarse a nuevas herramientas.",bajo
+72,backend developer,software,empresa con cultura inclusiva que busca una persona técnica y cooperativa.,bajo
+73,data analyst,ecommerce,la persona seleccionada apoyará análisis comerciales y elaboración de reportes.,bajo
+74,qa engineer,salud tech,"buscamos a alguien con atención al detalle, organización y gusto por la mejora continua.",bajo
+75,frontend developer,software,"puesto ideal para una persona creativa, colaborativa y orientada a la experiencia de usuario.",bajo
+76,data scientist,fintech,"se requiere capacidad analítica, comunicación y trabajo interdisciplinar.",bajo
+77,machine learning engineer,ecommerce,"la empresa valora diversidad, respeto y habilidades técnicas en igualdad de oportunidades.",bajo
+78,devops engineer,software,buscamos una persona resolutiva que quiera crecer en automatización e infraestructura.,bajo
+79,security engineer,telecom,"se valorará criterio técnico, documentación clara y compromiso con buenas prácticas.",bajo
+80,full stack developer,consultoría,la persona candidata desarrollará soluciones web en coordinación con el resto del equipo.,bajo
+81,junior developer,software,"se busca alguien con empuje, autonomía y capacidad para responder a retos con rapidez.",medio
+82,backend developer,fintech,"necesitamos una persona decidida, orientada a resultados y fuerte en contextos exigentes.",medio
+83,data analyst,consultoría,"el perfil ideal es competitivo, rápido y enfocado en objetivos medibles.",medio
+84,qa engineer,software,"se valorará firmeza, control y seguridad para actuar con criterio técnico.",medio
+85,frontend developer,ecommerce,"puesto para una persona ambiciosa, dinámica y con fuerte orientación al rendimiento.",medio
+86,data scientist,salud tech,"buscamos un perfil sólido, decidido y cómodo trabajando con presión.",medio
+87,machine learning engineer,software,"queremos una persona con mentalidad fuerte, rápida y centrada en superar retos.",medio
+88,devops engineer,telecom,"se requiere resistencia, capacidad de reacción y determinación en entornos críticos.",medio
+89,security engineer,fintech,buscamos una persona dominante en lo técnico y con control en situaciones complejas.,medio
+90,full stack developer,software,"se valora iniciativa, competitividad y foco en objetivos del producto.",medio
