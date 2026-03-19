@@ -2,7 +2,7 @@
 
 ## Descripción del proyecto
 
-Este proyecto analiza la **brecha de género en el sector tecnológico** mediante técnicas de Inteligencia Artificial y Machine Learning.
+Este proyecto analiza la **brecha de género en el sector tecnológico** mediante técnicas de Inteligencia Artificial y Machine Learning
 
 El objetivo es estudiar tres problemas principales:
 
